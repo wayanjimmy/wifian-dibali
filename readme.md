@@ -63,3 +63,14 @@ Google map : [Lokasi](https://goo.gl/maps/z2jhcskApV22)
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | Jl. Hayam Wuruk, Panjer, Denpasar Tim., Kota Denpasar, Bali 80239 | 10:00 - 23:00 | 💲💲
+
+
+## Kuta Selatan
+### Telkom Jimbaran
+> wifi.id
+
+Google map : [Lokasi](https://goo.gl/maps/Hvnf4XGThfs)
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | Jl. Raya Uluwatu, Kedonganan, Kuta, Kabupaten Badung, Bali | 24 jam | -
