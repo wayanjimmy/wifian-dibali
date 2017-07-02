@@ -76,8 +76,4 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-<<<<<<< HEAD
 ✔ | ✔ | Jl. Raya Uluwatu, Kedonganan, Kuta, Kabupaten Badung, Bali | 07:00 - 24:00 | -
-=======
-✔ | ✔ | [Jl. Raya Uluwatu, Kedonganan, Kuta, Kabupaten Badung, Bali](https://goo.gl/maps/Hvnf4XGThfs)  | 24 jam | -
->>>>>>> a08266e75e2a9a0ad6f9592f20ae923e517d95af
