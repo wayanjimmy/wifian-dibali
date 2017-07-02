@@ -1,9 +1,7 @@
 ## Wifian di Bali
-Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana :)
+Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 
-Untuk harga gunakan emoji dollar
-
-## Index
+## Indeks
 
 - [Denpasar](#denpasar)
 - [Kuta Selatan](#kuta-selatan)
