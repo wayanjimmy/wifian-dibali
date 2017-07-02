@@ -67,10 +67,10 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 ## Kuta Selatan
 ### Telkom Jimbaran
-> wifi.id
+> wifi.id, di selatan ada CK, di seberang tembok kadang ada dagang es kuud / tipat
 
 Google map : [Lokasi](https://goo.gl/maps/Hvnf4XGThfs)
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | Jl. Raya Uluwatu, Kedonganan, Kuta, Kabupaten Badung, Bali | 24 jam | -
+✔ | ✔ | Jl. Raya Uluwatu, Kedonganan, Kuta, Kabupaten Badung, Bali | 07:00 - 24:00 | -
