@@ -4,9 +4,10 @@ Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana :)
 Untuk harga gunakan emoji dollar
 
 💲 = murah
+
 💲💲 = sedang
+
 💲💲💲 = mahal
-- = belum tahu
 
 ## Denpasar
 ### Batan Poh
