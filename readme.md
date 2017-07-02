@@ -5,8 +5,8 @@ Untuk harga gunakan emoji dollar
 
 ## Index
 
-- [Denpasar](##denpasar-)
-- [Kuta Selatan](##kuta-selatan-)
+- [Denpasar](#denpasar-)
+- [Kuta Selatan](#kuta-selatan-)
 
 ## Template
 
