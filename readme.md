@@ -62,7 +62,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Hayam Wuruk, Panjer, Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/z2jhcskApV22) | 10:00 - 23:00 | 💲💲
 
 ### Biro 
-> cafe, coffee, nasi campur, burger kalau sore kadang ramai
+> cafe, coffee, nasi campur, burger kalau sore kadang ramai, lantai 2 ada shared office 50rb per hari / 35rb 4jam
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
