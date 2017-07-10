@@ -68,6 +68,14 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Badak Agung No.31, Renon, 80226 Denpasar, Indonesia](https://her.is/2tEG2Ch) | 08:00 - 22:00 | 💲💲
 
+### Rumah Pintar Kota Denpasar 
+>  wifi.id , Deket pasar kreneng, ada byk opsi makanan disekitar (cuman jeleknya klo mulai rame banyak anak sekolahan) sabtu minggu recommended buat nyantai. Ruangan di dalemnya juga nyaman dan cozy.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Kamboja No.4, Dangin Puri Kangin, Denpasar Utara, Kota Denpasar, Bali 80236](https://goo.gl/maps/75hBykMXG9N2) | 24 Jam (Bisa manfaatin meja diluar) | 💲💲
+
+
 ## Kuta Selatan
 ### Telkom Jimbaran
 > wifi.id, di selatan ada CK, di seberang tembok kadang ada dagang es kuud / tipat
