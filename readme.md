@@ -48,7 +48,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Gatot Subroto Timur, Dangin Puri Kaja, Denpasar, Kota Denpasar, Bali 80234](https://goo.gl/maps/GHnLdcgpziG2) | 11:00 - 23:00 | 💲
 
 ### Gangga Meeting Point (Kopi Gocenk)
-> Beli kopi self service Rp 5.000, wifian sepuasnya
+> Beli kopi self service Rp 5.000, wifian sepuasnya (terakhir kesana wifinya lemot)
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
