@@ -27,8 +27,10 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Teuku Umar Barat No.168, Pemecutan Klod, Denpasar Bar., Kota Denpasar](https://goo.gl/maps/Gu2NrPJsyqy) | 11:00 - 21:30 | -
 
 Wifi lumayan kenceng disetiap meja juga ada colokan
+```
 ssid : Panties Pizza
 pass : marlboro
+```
 
 ### Batan Poh
 > Coffee & Juice Corner, wifi.id
