@@ -19,6 +19,15 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ```
 
 ## Denpasar
+### Panties Pizza Marlboro
+> Pizza 
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Teuku Umar Barat No.168, Pemecutan Klod, Denpasar Bar., Kota Denpasar](https://goo.gl/maps/Gu2NrPJsyqy) | 11:00 - 21:30 | -
+
+Wifi lumayan kenceng (wifi.id) disetiap meja juga ada colokan
+
 ### Batan Poh
 > Coffee & Juice Corner, wifi.id
 
