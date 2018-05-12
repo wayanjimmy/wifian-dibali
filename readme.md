@@ -88,6 +88,12 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Kamboja No.4, Dangin Puri Kangin, Denpasar Utara, Kota Denpasar, Bali 80236](https://goo.gl/maps/75hBykMXG9N2) | 24 Jam (Bisa manfaatin meja diluar) | 💲💲
 
+### Dunkin Donuts Teuku Umar 
+> Jam datang terbaik adalah sebelum jam 07.00 Senin-Jumat (Sabtu Minggu biasanya ramai)  dapat tempat duduk dengan colokan, kalo ga dapet bisa bawa colokan sendiri. Wifi is bad, usually i tether my phone here, kecuali diatas jam 24.00 wifi kencang. Rekomendasi karena banyak inspirasi, price range 30K-50K. Ada smoking room.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Teuku Umar, Dauh Puri Kauh, Denpasar Bar., Kota Denpasar, Bali 20112](https://goo.gl/maps/bgTgwpqMnSH2) | 24 Jam | 💲💲
 
 ## Kuta Selatan
 ### Telkom Jimbaran
