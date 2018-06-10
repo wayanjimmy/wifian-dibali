@@ -74,12 +74,12 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Hayam Wuruk, Panjer, Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/z2jhcskApV22) | 10:00 - 23:00 | 💲💲
 
-### Biro 
-> cafe, coffee, nasi campur, burger kalau sore kadang ramai, lantai 2 ada shared office 50rb per hari / 35rb 4jam
+### Coffee Secrets 
+> banyak pilihan kopi, spaghetti, pizza, nasi campur, beberapa tempat duduk ada colokan (bisa tanya ke waiternya). 
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Badak Agung No.31, Renon, 80226 Denpasar, Indonesia](https://her.is/2tEG2Ch) | 08:00 - 22:00 | 💲💲
+✔ | ✔ | [Jl. Drupadi No. 32, Denpasar, Bali](https://goo.gl/maps/THb5sMXwVrS2) | 08:00 - 22:00 | 💲💲
 
 ### Rumah Pintar Kota Denpasar 
 >  wifi.id , Deket pasar kreneng, ada byk opsi makanan disekitar (cuman jeleknya klo mulai rame banyak anak sekolahan) sabtu minggu recommended buat nyantai. Ruangan di dalemnya juga nyaman dan cozy.
