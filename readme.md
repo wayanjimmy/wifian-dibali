@@ -75,7 +75,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Hayam Wuruk, Panjer, Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/z2jhcskApV22) | 10:00 - 23:00 | 💲💲
 
 ### Coffee Secrets 
-> banyak pilihan kopi, spaghetti, pizza, nasi campur, beberapa tempat duduk ada colokan (bisa tanya ke waiternya). 
+> banyak pilihan kopi, spaghetti, pizza, nasi campur, beberapa tempat duduk ada colokan (bisa tanya ke waiternya). [Speedtest result](http://www.speedtest.net/result/7381719668).
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
