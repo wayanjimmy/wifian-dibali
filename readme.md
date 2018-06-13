@@ -95,6 +95,15 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Teuku Umar, Dauh Puri Kauh, Denpasar Bar., Kota Denpasar, Bali 20112](https://goo.gl/maps/bgTgwpqMnSH2) | 24 Jam | 💲💲
 
+## Kuta Utara 
+### Anomali Coffee
+> Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Dewi Sri, Legian, Kuta, Kabupaten Badung, Bali 80361](https://goo.gl/maps/XMpY2UH2YK22) | 07:00 - 24:00 | 💲💲💲
+
+
 ## Kuta Selatan
 ### Telkom Jimbaran
 > wifi.id, di selatan ada CK, di seberang tembok kadang ada dagang es kuud / tipat
@@ -102,3 +111,11 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Raya Uluwatu, Kedonganan, Kuta, Kabupaten Badung, Bali](https://goo.gl/maps/Hvnf4XGThfs) | 07:00 - 24:00 | -
+
+
+### Warung Upnormal
+> Jalan Raya Unud, colokan banyak kadang ramai (sekali). Ada smoking area di luar, Wifi by wifi.id
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Raya Kampus Unud, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 80361](https://goo.gl/maps/aZAxcTJ4iam) | 09:00 AM - 03:00 AM | 💲💲
