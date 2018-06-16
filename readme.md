@@ -95,7 +95,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Teuku Umar, Dauh Puri Kauh, Denpasar Bar., Kota Denpasar, Bali 20112](https://goo.gl/maps/bgTgwpqMnSH2) | 24 Jam | 💲💲
 
-## Kuta Utara 
+## Kuta Tengah
 ### Anomali Coffee
 > Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
 
