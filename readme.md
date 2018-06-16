@@ -119,3 +119,10 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Raya Kampus Unud, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 80361](https://goo.gl/maps/aZAxcTJ4iam) | 09:00 AM - 03:00 AM | 💲💲
+
+### Tanamera Coffee
+> SSID: `Tanamera`, Password wifi: `rasuna33`
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Wanagiri No.10, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 80361](https://goo.gl/maps/oJNjdjgaFtR2) | 08:00 AM - ~| 💲💲
