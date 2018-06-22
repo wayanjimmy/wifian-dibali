@@ -95,6 +95,17 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Teuku Umar, Dauh Puri Kauh, Denpasar Bar., Kota Denpasar, Bali 20112](https://goo.gl/maps/bgTgwpqMnSH2) | 24 Jam | 💲💲
 
+### Men Brayut / 90's Cafe 
+> Berkonsep buat anak 90'an dengan makanan yang lumayan terjangkau, terdapat wifi.id dan wifi dari cafenya.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [No.35, Jl. Bedugul, Sidakarya, South Denpasar, Denpasar City, Bali 80224](https://goo.gl/maps/xv4JTHBJE5J2) | 09:00 - 23:00 | 💲💲
+```
+ssid: 90's Kafe
+pass: zaman90an
+```
+
 ## Kuta Tengah
 ### Anomali Coffee
 > Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
