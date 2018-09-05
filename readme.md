@@ -106,6 +106,15 @@ ssid: 90's Kafe
 pass: zaman90an
 ```
 
+### Starbucks Plaza Renon
+
+> Seperti starbucks pada umumnya, tersedia free wifi id
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ----------
+✔ | ✔ | [Jl. Raya Puputan No.210, Sumerta Kelod, Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/gquJ7T36P3J2) | Mon-Sun 8AM - 11PM | 💲💲
+
+
 ## Kuta Tengah
 ### Anomali Coffee
 > Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
