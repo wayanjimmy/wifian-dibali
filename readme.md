@@ -108,7 +108,7 @@ pass: zaman90an
 
 ### Starbucks Plaza Renon
 
-> Seperti starbucks pada umumnya, tersedia free wifi id
+> Seperti starbucks pada umumnya, tersedia free wifi id, meja panjang & kecil
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 ---- | ----- | ------- | ----------
