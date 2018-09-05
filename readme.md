@@ -111,9 +111,13 @@ pass: zaman90an
 > Seperti starbucks pada umumnya, tersedia free wifi id, meja panjang & kecil
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
----- | ----- | ------- | ----------
+---- | ----- | ------- | ---------- | -----
 ✔ | ✔ | [Jl. Raya Puputan No.210, Sumerta Kelod, Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/gquJ7T36P3J2) | Mon-Sun 8AM - 11PM | 💲💲
 
+- free wifi id
+- colokan tersedia di setiap bilik meja panjang
+- colokan tersedia di setiap meja kecil di belakang kasir/barista
+- tersedia banyak meja outdoor, meja panjang & kecil
 
 ## Kuta Tengah
 ### Anomali Coffee
