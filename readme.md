@@ -119,6 +119,17 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - colokan tersedia di setiap meja kecil di belakang kasir/barista
 - tersedia banyak meja outdoor, meja panjang & kecil
 
+### Kulo Kedai Kopi
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Gunung Agung No.44, Denpasar](https://goo.gl/maps/JeXJNHfgU7w) | Mon-Sun 10AM - 10PM | 💲💲
+
+```
+ssid: Kopi Kulo Gunang
+pass: lalalele
+```
+
 ## Kuta Tengah
 ### Anomali Coffee
 > Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
