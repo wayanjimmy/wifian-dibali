@@ -103,7 +103,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [No.35, Jl. Bedugul, Sidakarya, South Denpasar, Denpasar City, Bali 80224](https://goo.gl/maps/xv4JTHBJE5J2) | 09:00 - 23:00 | 💲💲
 ```
 ssid: 90's Kafe
-pass: zaman90an
+pass: jaman90an
 ```
 
 ### Starbucks Plaza Renon
