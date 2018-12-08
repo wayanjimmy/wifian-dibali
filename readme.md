@@ -123,6 +123,16 @@ ssid: Kopi Kulo Gunang
 pass: lalalele
 ```
 
+### Danas Kitchen & Coworking
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Bedugul, Sidakarya, Denpasar Sel., Kota Denpasar, Bali](https://goo.gl/maps/vcCNqURCfwz) | - | 💲💲
+
+```
+pass: akusukadanas
+```
+
 ## Kuta Tengah
 ### Anomali Coffee
 > Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
