@@ -53,13 +53,6 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Cokroaminoto No.225, Ubung, Denpasar Utara, Kota Denpasar, Bali 80115] (https://goo.gl/4zNVQt) | 08:00 - 24:00 | -
 
-### Starz Cafetaria & Coffee
-> kafe yg gak pernah penuh, ada meja besar, cocok buat meeting santai
-
-Wifi | Colokan | Alamat | Jam Buka | Harga
---- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Gatot Subroto Timur, Dangin Puri Kaja, Denpasar, Kota Denpasar, Bali 80234](https://goo.gl/maps/GHnLdcgpziG2) | 11:00 - 23:00 | 💲
-
 ### Gangga Meeting Point (Kopi Gocenk)
 > Beli kopi self service Rp 5.000, wifian sepuasnya (terakhir kesana wifinya lemot)
 
