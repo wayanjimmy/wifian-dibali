@@ -133,6 +133,14 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 pass: akusukadanas
 ```
 
+## Kuta Utara
+### Coffee 25PM
+> Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Raya Kedampang, Kerobokan Kelod, Kuta Utara, Kabupaten Badung, Bali 80361](https://goo.gl/maps/MQjSQmMyi7S2) | 07:30 - 23:00 | 💲💲💲
+
 ## Kuta Tengah
 ### Anomali Coffee
 > Recomended for coffee addict, they do they own roasting here. Bit pricey, but still below Sbuck. Wifi by Biznet, colokan ada tapi beberapa spot aja
