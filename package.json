@@ -4,7 +4,7 @@
   "description": "Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋",
   "main": "index.js",
   "scripts": {
-    "build:demo": "fiddly"
+    "build": "fiddly"
   },
   "repository": {
     "type": "git",
