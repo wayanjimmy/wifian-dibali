@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/wayanjimmy/wifian-dibali#readme",
   "devDependencies": {
-    "fiddly": "^0.7.0"
+    "fiddly": "^0.8.0"
+  },
+  "fiddly": {
+    "darkTheme": true
   }
 }
