@@ -2,7 +2,7 @@
   "name": "wifian-dibali",
   "version": "1.0.0",
   "description": "Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋",
-  "main": "index.js",
+  "main": "N/A",
   "scripts": {
     "build": "fiddly"
   },
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Unlicensed",
   "bugs": {
     "url": "https://github.com/wayanjimmy/wifian-dibali/issues"
   },
