@@ -4,7 +4,10 @@ Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 ## Indeks
 
 - [Denpasar](#denpasar)
+- [Kuta Utara](#kuta-utara)
+- [Kuta Tengah](#kuta-tengah)
 - [Kuta Selatan](#kuta-selatan)
+- [Tabanan](#tabanan)
 
 ## Template
 
@@ -174,3 +177,12 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ssid: Tanamera
 pass: rasuna33
 ```
+
+
+## Tabanan
+### Valencia Bakery Cafe
+> Parkir luas dibelakang, wifinya lumayan kencang, suasana cozy dan instagramable.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/7PQYxq7EYX9GbiiE8) | 08:30 - 21:30 | 💲💲
