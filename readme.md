@@ -136,6 +136,24 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 pass: akusukadanas
 ```
 
+### DILo Denpasar
+
+> Co-Working Space
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. WR Supratman No.302, Kesiman Kertalangu, Denpasar Timur](https://goo.gl/maps/jt2hynSCgP22sFUu9) | 7AM - 10PM | FREE
+
+- Free Wifi
+- Colokan Deket Tembok / Ambil dari Booth Tenant 
+- Disarankan untuk bawa extend colokan
+- Disarankan datang diatas jam 5PM (Kalo siang atau pagi wifi lemot)
+
+```
+SSID: BDI Denpasar
+pass: Industri4.0
+```
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
