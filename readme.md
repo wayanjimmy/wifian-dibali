@@ -154,6 +154,18 @@ SSID: BDI Denpasar
 pass: Industri4.0
 ```
 
+### Dapoer Papa 
+
+> Tempat ngopi dan ada wifi, tempatnya agak kecil tapi nyaman
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Tukad Yeh Penet No.3, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali 80239](https://goo.gl/maps/9znyeWdz1bfU4yXL8) | 10AM - 10PM | -
+
+```
+pass: ngopididapoer
+```
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
