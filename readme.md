@@ -148,6 +148,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - Colokan Deket Tembok / Ambil dari Booth Tenant 
 - Disarankan untuk bawa extend colokan
 - Disarankan datang diatas jam 5PM (Kalo siang atau pagi wifi lemot)
+- jangan terlalu ribut disana karena suara menggema
 
 ```
 SSID: BDI Denpasar
