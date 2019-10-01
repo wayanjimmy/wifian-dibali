@@ -50,11 +50,11 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Badak Agung No. 23 A, Panjer, Denpasar Sel., Kota Denpasar](https://goo.gl/maps/JyJx9KXARqE2) | 10:00 - 24:00 | 💲💲
 
 ### Telkom Ubung
-> namping indomaret/alfamart, mie ayam, wifi.id
+> namping indomaret/alfamart, mie ayam, wifi.id, soto, warung roti
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Cokroaminoto No.225, Ubung, Denpasar Utara, Kota Denpasar, Bali 80115] (https://goo.gl/4zNVQt) | 08:00 - 24:00 | -
+✔ | ✔ | [Jl. Cokroaminoto No.225, Ubung, Denpasar Utara, Kota Denpasar, Bali 80115] (https://goo.gl/4zNVQt) | 24 jam | -
 
 ### Gangga Meeting Point (Kopi Gocenk)
 > Beli kopi self service Rp 5.000, wifian sepuasnya (terakhir kesana wifinya lemot)
@@ -78,7 +78,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Drupadi No. 32, Denpasar, Bali](https://goo.gl/maps/THb5sMXwVrS2) | 08:00 - 22:00 | 💲💲
 
 ### Rumah Pintar Kota Denpasar 
->  wifi.id , Deket pasar kreneng, ada byk opsi makanan disekitar (cuman jeleknya klo mulai rame banyak anak sekolahan) sabtu minggu recommended buat nyantai. Ruangan di dalemnya juga nyaman dan cozy.
+>  wifi.id , Deket pasar kreneng, ada byk opsi makanan disekitar (cuman jeleknya klo mulai rame banyak anak sekolahan) sabtu minggu recommended buat nyantai. Ruangan di dalemnya juga nyaman dan cozy. saran bawa colokan sendiri
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
@@ -92,7 +92,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ✔ | ✔ | [Jl. Teuku Umar, Dauh Puri Kauh, Denpasar Bar., Kota Denpasar, Bali 20112](https://goo.gl/maps/bgTgwpqMnSH2) | 24 Jam | 💲💲
 
 ### Men Brayut / 90's Cafe 
-> Berkonsep buat anak 90'an dengan makanan yang lumayan terjangkau, terdapat wifi.id dan wifi dari cafenya.
+> Berkonsep buat anak 90'an dengan makanan yang lumayan terjangkau, terdapat wifi.id dan wifi dari cafenya. enak banget buat diskusi dan nyantai bareng temen
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
@@ -148,6 +148,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - Colokan Deket Tembok / Ambil dari Booth Tenant 
 - Disarankan untuk bawa extend colokan
 - Disarankan datang diatas jam 5PM (Kalo siang atau pagi wifi lemot)
+- jangan terlalu ribut disana karena suara menggema
 
 ```
 SSID: BDI Denpasar
