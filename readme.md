@@ -115,11 +115,22 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - colokan tersedia di setiap meja kecil di belakang kasir/barista
 - tersedia banyak meja outdoor, meja panjang & kecil
 
-### Kulo Kedai Kopi
+### Kulo Kedai Kopi Gunung Agung
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 ---- | ----- | ------- | ---------- | -----
 ✔ | ✔ | [Jl. Gunung Agung No.44, Denpasar](https://goo.gl/maps/JeXJNHfgU7w) | Mon-Sun 10AM - 10PM | 💲💲
+
+```
+ssid: Kopi Kulo Gunang
+pass: lalalele
+```
+
+### Kulo Kedai Kopi Gatsu Barat
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Gatot Subroto Barat No.47 B, Padangsambian Kaja, Kec. Denpasar Bar., Kota Denpasar, Bali 80118](https://goo.gl/maps/MXxhhneTHMWuHS889) | Mon-Sun 9AM - 10PM | 💲💲
 
 ```
 ssid: Kopi Kulo Gunang
@@ -132,9 +143,9 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 ---- | ----- | ------- | ---------- | -----
 ✔ | ✔ | [Jl. Bedugul, Sidakarya, Denpasar Sel., Kota Denpasar, Bali](https://goo.gl/maps/vcCNqURCfwz) | - | 💲💲
 
-```
-pass: akusukadanas
-```
+- colokan ada beberapa di sudut tempat
+- tersedia smoking area
+- banyak jualan makanan disekeliling warung kopi
 
 ### DILo Denpasar
 
