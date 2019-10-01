@@ -216,3 +216,12 @@ pass: rasuna33
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/7PQYxq7EYX9GbiiE8) | 08:30 - 21:30 | 💲💲
+
+
+## Singaraja
+### Telkom Singaraja
+> Parkir luas, wifinya lumayan lah, suasana adem karena banyak pepohonan, dan kadang-kadang sepi
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sepertinya 24 jam | 💲💲
