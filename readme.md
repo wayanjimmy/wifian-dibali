@@ -166,6 +166,14 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 pass: ngopididapoer
 ```
 
+### Wifi.Id Corner Telkom Sanur
+
+> Tempat luas, banyak kursi dan colokan, adem, kalau hoki bisa liat ciwi2 kampus nongki disana
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Danau Tondano No.47, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80227] (https://goo.gl/maps/jpnnrz8FMkRhAfgc9) | 08:00 - 24:00 | -
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
