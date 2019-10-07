@@ -209,7 +209,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 ---- | ----- | ------- | ---------- | -----
-- | ✔ | [Jl. Tukad Pakerisan No.6, Panjer, Kec. Denpasar](https://goo.gl/maps/9SmNrPkwhT4gSjL7A) | 16.00 - 00.00 | 💲💲
+X | ✔ | [Jl. Tukad Pakerisan No.6, Panjer, Kec. Denpasar](https://goo.gl/maps/9SmNrPkwhT4gSjL7A) | 16.00 - 00.00 | 💲💲
 
 - colokan ada beberapa di sudut tempat
 - tersedia smoking area
@@ -226,6 +226,15 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - colokan ada beberapa di sudut tempat
 - suara musik keras di luar ruangan, tapi tersedia ruang meeting tertutup ber-AC
 - harga menu paling mahal 25K
+
+### Starbucks Griya Santrian (Sanur)
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Danau Tamblingan No.47, Sanur](https://goo.gl/maps/kFcHiKQDwiZjRbbC6) | 08.00 - 23.00 | 💲💲💲
+
+- colokan ada beberapa di sudut tempat
+- tersedia smoking area
 
 ## Kuta Utara
 ### Coffee 25PM
