@@ -215,6 +215,18 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - tersedia smoking area
 - NO WIFI! - tapi pemandangan bagus banget dari rooftop buat penyegaran diri
 
+### Tumz Up Coffee & Cafe
+
+> Wifinya lumayan kencang, banyak pilihan makanan.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Gatot Subroto Barat No. 12, Pemecutan Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80111](https://goo.gl/maps/H2ZmApdTKTd5BBt7A) | 16.00 - 01.00 | <=25K
+
+- colokan ada beberapa di sudut tempat
+- suara musik keras di luar ruangan, tapi tersedia ruang meeting tertutup ber-AC
+- harga menu paling mahal 25K
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
@@ -222,6 +234,13 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Raya Kedampang, Kerobokan Kelod, Kuta Utara, Kabupaten Badung, Bali 80361](https://goo.gl/maps/MQjSQmMyi7S2) | 07:30 - 23:00 | 💲💲💲
+
+### Starbucks Pantai Berawa Canggu
+> Parkir agak kecil, wifi open dan kencang
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Pantai Berawa No.8, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361](https://goo.gl/maps/Wi4v64Zu2A83jg2F6) | 07:00 - 22:00 | 💲💲💲
 
 ## Kuta Tengah
 ### Anomali Coffee
@@ -265,6 +284,13 @@ pass: rasuna33
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/7PQYxq7EYX9GbiiE8) | 08:30 - 21:30 | 💲💲
+
+### Starbucks Tanah Lot
+> Parkir luas, wifi kencang, biasanya sepi jadi enak buat kerja.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Kampoeng Lot Lt. 1, Tabanan, Jl. By Pass Tanah Lot No.10, Beraban, Kec. Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/xrzs6kqtfjZYY9KK9) | 09:00 - 21:00 | 💲💲💲
 
 
 ## Singaraja
