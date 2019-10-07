@@ -186,6 +186,35 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Danau Tondano No.47, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80227] (https://goo.gl/maps/jpnnrz8FMkRhAfgc9) | 08:00 - 24:00 | -
 
+### Emocao Coffee & Eatery
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Tukad Batanghari No.72, Dauh Puri Klod](https://goo.gl/maps/GZ15JFyo3eWJ8EeS9) | 09.00 - 22.00 | 💲💲
+
+- colokan ada beberapa di sudut tempat
+- tersedia smoking area
+- tersedia ruang untuk meeting dan bisa di booking
+
+### Hari Ini Coffee Bar & Kitchen
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Tukad Batanghari No.63, Dauh Puri Klod](https://goo.gl/maps/a5azYZJbouotUn9c8) | 16.00 - 00.00 | 💲💲
+
+- colokan ada beberapa di sudut tempat
+- tersedia smoking area dan ruang meeting tertutup
+
+### Happy Corner Cafe N Rooftop
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+- | ✔ | [Jl. Tukad Pakerisan No.6, Panjer, Kec. Denpasar](https://goo.gl/maps/9SmNrPkwhT4gSjL7A) | 16.00 - 00.00 | 💲💲
+
+- colokan ada beberapa di sudut tempat
+- tersedia smoking area
+- NO WIFI! - tapi pemandangan bagus banget dari rooftop buat penyegaran diri
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
