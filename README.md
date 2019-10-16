@@ -1,5 +1,5 @@
 ## Wifian di Bali
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 
 ## Indeks
@@ -341,6 +341,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/satyawikananda"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4" width="100px;" alt="satyawikananda"/><br /><sub><b>satyawikananda</b></sub></a><br /><a href="#content-satyawikananda" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="100px;" alt="Adrian Edy Pratama"/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/atrem13"><img src="https://avatars0.githubusercontent.com/u/31754826?v=4" width="100px;" alt="atrem13"/><br /><sub><b>atrem13</b></sub></a><br /><a href="#content-atrem13" title="Content">🖋</a></td>
+    <td align="center"><a href="https://gitlab.com/Mbahmo"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4" width="100px;" alt="Anthony Lee"/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
   </tr>
 </table>
 
