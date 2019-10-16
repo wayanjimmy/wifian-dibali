@@ -236,6 +236,17 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - colokan ada beberapa di sudut tempat
 - tersedia smoking area
 
+### Suksma Caffee
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Nangka Utara No.317, Tonja, Denpasar Utara](https://goo.gl/maps/tEfRzavdYd4BJZTx6) | 15.00 - 00.00 | 💲
+
+- tersedia colokan dibeberapa meja
+- ada indoor dan outdoor
+- terdapat menu mie instan yang sangat terjangkau
+- Parkir cukup luas
+- wifi lumayan cepat
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
