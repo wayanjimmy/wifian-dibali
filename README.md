@@ -1,5 +1,5 @@
 ## Wifian di Bali
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 
 ## Indeks
@@ -333,6 +333,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://adiandrea.id"><img src="https://avatars0.githubusercontent.com/u/12887683?v=4" width="100px;" alt="Adi Andrea"/><br /><sub><b>Adi Andrea</b></sub></a><br /><a href="#content-dekzitfz" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.barayuda.web.id/"><img src="https://avatars3.githubusercontent.com/u/520463?v=4" width="100px;" alt="Barayuda Gautama"/><br /><sub><b>Barayuda Gautama</b></sub></a><br /><a href="#content-barayuda" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/dkotama"><img src="https://avatars3.githubusercontent.com/u/5332757?v=4" width="100px;" alt="Darma Kotama, I Nyoman"/><br /><sub><b>Darma Kotama, I Nyoman</b></sub></a><br /><a href="#content-dkotama" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/rakateja"><img src="https://avatars1.githubusercontent.com/u/2878405?v=4" width="100px;" alt="Made Raka"/><br /><sub><b>Made Raka</b></sub></a><br /><a href="#content-rakateja" title="Content">🖋</a></td>
   </tr>
 </table>
 
