@@ -1,5 +1,5 @@
 ## Wifian di Bali
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
 Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 
 ## Indeks
@@ -339,6 +339,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/satyawikananda"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4" width="100px;" alt="satyawikananda"/><br /><sub><b>satyawikananda</b></sub></a><br /><a href="#content-satyawikananda" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="100px;" alt="Adrian Edy Pratama"/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
   </tr>
 </table>
 
