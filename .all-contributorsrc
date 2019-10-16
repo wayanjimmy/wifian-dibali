@@ -94,6 +94,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Mbahmo",
+      "name": "Anthony Lee",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35132441?v=4",
+      "profile": "https://gitlab.com/Mbahmo",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
