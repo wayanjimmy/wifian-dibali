@@ -9,6 +9,7 @@ Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 - [Kuta Tengah](#kuta-tengah)
 - [Kuta Selatan](#kuta-selatan)
 - [Tabanan](#tabanan)
+- [Gianyar](#gianyar)
 
 ## Template
 
@@ -321,6 +322,34 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sepertinya 24 jam | 💲💲
+
+## Gianyar
+
+### Kedai Kopi Kulo Teges
+> View sawah (sharing view yang sama dengan RM Sawah Indah) 
+> Parkir lumayan untuk motor, tapi kalo bawa mobil agak rempong
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl Raya Goa Gajah, Teges, Ubud Gianyar](https://goo.gl/maps/3A2DiWUfwhc53Qqf9) | 9am - 5pm | 💲💲
+
+### Kedai Kopi Kulo Taman Kota Gianyar
+> Bersih, tempatnya classy
+> Parkir jangan berharap banyak
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl By Pass Dharma Giri](https://goo.gl/maps/mkRkQR3Dzh2geyvw8) | 9am - 5pm | 💲💲
+
+### Papila's Coffee House
+> Bersih, classy
+> Parkir luas, parkir mobil limited
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl By Pass Dharma Giri](https://goo.gl/maps/ccKVyqwfrJ1ozd7a7) | 9am - 5pm | 💲💲
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
