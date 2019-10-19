@@ -93,15 +93,15 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Teuku Umar, Dauh Puri Kauh, Denpasar Bar., Kota Denpasar, Bali 20112](https://goo.gl/maps/bgTgwpqMnSH2) | 24 Jam | 💲💲
 
-### Men Brayut / 90's Cafe 
+### Men Brayut
 > Berkonsep buat anak 90'an dengan makanan yang lumayan terjangkau, terdapat wifi.id dan wifi dari cafenya. enak banget buat diskusi dan nyantai bareng temen
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [No.35, Jl. Bedugul, Sidakarya, South Denpasar, Denpasar City, Bali 80224](https://goo.gl/maps/xv4JTHBJE5J2) | 09:00 - 23:00 | 💲💲
 ```
-ssid: 90's Kafe
-pass: jaman90an
+ssid: Admin Meme
+pass: rahasia123
 ```
 
 ### Starbucks Plaza Renon
