@@ -10,6 +10,7 @@ Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 - [Kuta Selatan](#kuta-selatan)
 - [Tabanan](#tabanan)
 - [Gianyar](#gianyar)
+- [Singaraja](#singaraja)
 
 ## Template
 
@@ -321,7 +322,15 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sepertinya 24 jam | 💲💲
+✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sampai jam 12 p.m | 💲💲
+
+### McD Singaraja
+> Parkir berbayar, wifi kencang, kadang mejanya penuh, terbuka (pinggir jalan raya), dan rame anak hedonnya
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Ngurah Rai, Singaraja, Kabupaten Buleleng, Bali 81113](https://goo.gl/maps/dppJqk7wmTK7b41b8) | 24 jam | 💲💲
+
 
 ## Gianyar
 
