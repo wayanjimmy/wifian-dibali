@@ -181,6 +181,18 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 pass: ngopididapoer
 ```
 
+### Kopisoe Merdeka 
+
+> Tempat beli kopi gelas plastik. Ada Kursinya, yang nempel tembok semua ada colokan. Wifi speed moderate.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Merdeka No.10, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/KSSAiZiA36FYKMpS6) | 10AM - 10PM | -
+
+```
+pass: soeroegal
+```
+
 ### Wifi.Id Corner Telkom Sanur
 
 > Tempat luas, banyak kursi dan colokan, adem, kalau hoki bisa liat ciwi2 kampus nongki disana
@@ -238,6 +250,15 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 - colokan ada beberapa di sudut tempat
 - tersedia smoking area
+
+### Starbucks PB Sudirman
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ----- | ------- | ---------- | -----
+✔ | ✔ | [Jl. Jend. Sudirman Jl. P.B. Sudirman No.6, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80234](https://goo.gl/maps/CFPyzz9xsjaFxLhQ9) | 08.00 - 23.00 | 💲💲💲
+
+- TBI Sudirman yang berubah jadi starbucks. Wifi open, tempat luas, parkiran mobil luas.
+
 
 ### Suksma Caffee
 Wifi | Colokan | Alamat | Jam Buka | Harga
