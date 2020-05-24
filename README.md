@@ -343,7 +343,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sampai jam 12 p.m | 💲💲
+✔ | ✔ | [Jl. Letkol Wisnu No.2, Banjar Jawa, Kec. Buleleng, Kabupaten Buleleng, Bali 81113](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sampai jam 12 p.m | 💲💲
 
 ### McD Singaraja
 > Parkir berbayar, wifi kencang, kadang mejanya penuh, terbuka (pinggir jalan raya), dan rame anak hedonnya
