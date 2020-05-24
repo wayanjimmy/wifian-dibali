@@ -139,11 +139,21 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "wahyuoi",
+      "name": "Gede Wahyu Adi Pramana",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2609951?v=4",
+      "profile": "http://gedewahyu.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "wifian-dibali",
   "projectOwner": "wayanjimmy",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
