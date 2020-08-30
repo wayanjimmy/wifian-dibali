@@ -340,28 +340,21 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 > Wifi.id tempat kecil tapi nyaman, karena kalau kesana malem-malem enak bisa belanja ke pasar senggol
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
----- | ----- | ------- | ----------
+--- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Gelatik No.3, Delod Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113](https://goo.gl/maps/9whiM2nSCEEL5xNDA) | 24 Jam | 💲💲
-
-### Telkom Tabanan
-> Wifi.id tempat kecil tapi nyaman, karena kalau kesana malem-malem enak bisa belanja ke pasar senggol
-
-Wifi | Colokan | Alamat | Jam Buka | Harga
----- | ----- | ------- | ----------
-✔ | ✔ | [Jl. Anggrek No.19, Dauh Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113](https://goo.gl/maps/A2zqigZE6P8NPTms8) | 24 Jam | 💲💲
 
 ### Telkom Tabanan
 > Plaza Telkom Tabanan, tempat luas untuk parkiran, colokan banyak
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
----- | ----- | ------- | ----------
+--- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Anggrek No.19, Dauh Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113](https://goo.gl/maps/A2zqigZE6P8NPTms8) | 08:00 AM - 10:00 PM  | 💲💲
 
 ### GJ Corner
 > Parkir ada, warung ada, tersedia lesehan, colokan banyak, ada 2 lantai dan ada warnet
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
----- | ----- | ------- | ----------
+--- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Pulau Menjangan No.62, Dauh Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82114](https://g.page/gj-corner?share) | 8AM–9PM | 💲💲
 
 ## Singaraja
