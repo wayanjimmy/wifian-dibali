@@ -311,6 +311,13 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Raya Kampus Unud, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 80361](https://goo.gl/maps/aZAxcTJ4iam) | 09:00 AM - 03:00 AM | 💲💲
 
+### KFC Tukad Pakerisan
+> wifi.id, cukup beli minuman aja 1
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [JJl. Tukad Pakerisan No.64, Dauh Puri Klod, Kec. Denpasar Sel., Kota Denpasar, Bali 80225](https://goo.gl/maps/Ap1xkp6gfHTFYqZ56) | 24 Jam | 💲💲
+
 ### Tanamera Coffee
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
