@@ -444,6 +444,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/e-suryasamad"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4" width="100px;" alt=""/><br /><sub><b>suryasa</b></sub></a><br /><a href="#content-e-suryasamad" title="Content">🖋</a></td>
     <td align="center"><a href="http://gedewahyu.com"><img src="https://avatars2.githubusercontent.com/u/2609951?v=4" width="100px;" alt=""/><br /><sub><b>Gede Wahyu Adi Pramana</b></sub></a><br /><a href="#content-wahyuoi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="100px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
   </tr>
 </table>
 
