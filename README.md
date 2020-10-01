@@ -271,6 +271,14 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 - Parkir cukup luas
 - wifi lumayan cepat
 
+### Telkom STO Tohpati
+
+> Kalau mau kesini, aku sarankan bawa autan atau sejenisnya, karena di corner ini lumayan banyak nyamuknya
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+---- | ------- | ----- | --------- | ------
+✔ | ✔ | [Tohpati UP-4, Jl. Sekar Jepun, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237](https://goo.gl/maps/iC7RRoA1FVvuHbQ96) | 09.00 - 22.00 | 💲💲
+
 ## Kuta Utara
 ### Coffee 25PM
 > Parkir agak kecil, tapi wifinya lumayan kencang saat saya test download speed mencapai 7.7Mbps
