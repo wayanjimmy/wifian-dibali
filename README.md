@@ -385,8 +385,14 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Ngurah Rai, Singaraja, Kabupaten Buleleng, Bali 81113](https://goo.gl/maps/dppJqk7wmTK7b41b8) | 24 jam | 💲💲
+✔ | ✔ | [Jl. Ngurah Rai, Singaraja, Kabupaten Buleleng, Bali 81113](https://goo.gl/maps/dppJqk7wmTK7b41b8) | 24 jam | 💲💲  
 
+### Telkom Seririt 
+> Wifi kencang, kadang mejanya penuh, terbuka (pinggir jalan raya)
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Letkol Wisnu Singaraja, Bali, Indonesia 81113](https://goo.gl/maps/CCiJgPEafEEQYQfM8) | Sampai jam 12 p.m | 💲💲  
 
 ## Gianyar
 
