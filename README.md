@@ -392,7 +392,7 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Letkol Wisnu Singaraja, Bali, Indonesia 81113](https://goo.gl/maps/CCiJgPEafEEQYQfM8) | Sampai jam 12 p.m | 💲💲  
+✔ | ✔ | [Seririt, Kec. Seririt, Kabupaten Buleleng, Bali 81153](https://goo.gl/maps/CCiJgPEafEEQYQfM8) | 8AM-4PM | 💲💲
 
 ## Gianyar
 
