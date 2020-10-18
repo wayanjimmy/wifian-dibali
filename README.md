@@ -293,6 +293,12 @@ pass: soeroegal
 | ---- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----- |
 | ✔    | ✔       | [Tohpati UP-4, Jl. Sekar Jepun, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237](https://goo.gl/maps/iC7RRoA1FVvuHbQ96) | 09.00 - 22.00 | 💲💲  |
 
+### Telkom renon
+
+| Wifi | Colokan | Alamat                                                                                  | Jam Buka      | Harga |
+| ---- | ------- | --------------------------------------------------------------------------------------- | ------------- | ----- |
+| ✔ | ✔ | [No. 25, Jl. Raya Puputan, Renon, Denpasar Selatan, Denpasar City, Bali 80234](https://goo.gl/maps/wHB2E4j8RUUC8tzM8) | 08.00 - 18.00 | 💲💲 |
+
 ## Kuta Utara
 
 ### Coffee 25PM
