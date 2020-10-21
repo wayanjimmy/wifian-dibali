@@ -493,12 +493,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="100px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
     <td align="center"><a href="http://justhumanz.me"><img src="https://avatars3.githubusercontent.com/u/43176061?v=4" width="100px;" alt=""/><br /><sub><b>Aldin Setiawan</b></sub></a><br /><a href="#content-JustHumanz" title="Content">🖋</a></td>
     <td align="center"><a href="https://troke.id"><img src="https://avatars1.githubusercontent.com/u/10250068?v=4" width="100px;" alt=""/><br /><sub><b>I Made Ocy Darma Putra</b></sub></a><br /><a href="#content-troke12" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4" width="100px;" alt=""/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
