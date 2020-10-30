@@ -299,6 +299,12 @@ pass: soeroegal
 | ---- | ------- | --------------------------------------------------------------------------------------- | ------------- | ----- |
 | ✔ | ✔ | [No. 25, Jl. Raya Puputan, Renon, Denpasar Selatan, Denpasar City, Bali 80234](https://goo.gl/maps/wHB2E4j8RUUC8tzM8) | 08.00 - 18.00 | 💲💲 |
 
+### Pao Pao Kopi Sesetan
+
+| Wifi | Colokan | Alamat                                                                                  | Jam Buka      | Harga |
+| ---- | ------- | --------------------------------------------------------------------------------------- | ------------- | ----- |
+| ✔ | ✔ | [Jl. Raya Sesetan No.275, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223](https://goo.gl/maps/iBcTnHPaBCYrEAeJ6) | 09.00 - 23.30 | 💲💲 |
+
 ## Kuta Utara
 
 ### Coffee 25PM
