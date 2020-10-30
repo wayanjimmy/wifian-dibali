@@ -305,6 +305,12 @@ pass: soeroegal
 | ---- | ------- | --------------------------------------------------------------------------------------- | ------------- | ----- |
 | ✔ | ✔ | [Jl. Raya Sesetan No.275, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223](https://goo.gl/maps/iBcTnHPaBCYrEAeJ6) | 09.00 - 23.30 | 💲💲 |
 
+### NGOCOK Es Kopi
+
+| Wifi | Colokan | Alamat                                                                                  | Jam Buka      | Harga |
+| ---- | ------- | --------------------------------------------------------------------------------------- | ------------- | ----- |
+| ✔ | ✔ | [Jl. Pulau Komodo No.30, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223](https://goo.gl/maps/bjQMxrKVZfTTrW268) | 09.00 - 22.00 | 💲💲 |
+
 ## Kuta Utara
 
 ### Coffee 25PM
