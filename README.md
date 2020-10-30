@@ -311,6 +311,7 @@ pass: soeroegal
 | ---- | ------- | --------------------------------------------------------------------------------------- | ------------- | ----- |
 | ✔ | ✔ | [Jl. Pulau Komodo No.30, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223](https://goo.gl/maps/bjQMxrKVZfTTrW268) | 09.00 - 22.00 | 💲💲 |
 
+
 ## Kuta Utara
 
 ### Coffee 25PM
@@ -506,6 +507,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://justhumanz.me"><img src="https://avatars3.githubusercontent.com/u/43176061?v=4" width="100px;" alt=""/><br /><sub><b>Aldin Setiawan</b></sub></a><br /><a href="#content-JustHumanz" title="Content">🖋</a></td>
     <td align="center"><a href="https://troke.id"><img src="https://avatars1.githubusercontent.com/u/10250068?v=4" width="100px;" alt=""/><br /><sub><b>I Made Ocy Darma Putra</b></sub></a><br /><a href="#content-troke12" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4" width="100px;" alt=""/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/suryawiguna"><img src="https://avatars0.githubusercontent.com/u/18457413?v=4" width="100px;" alt=""/><br /><sub><b>Surya Wiguna</b></sub></a><br /><a href="#content-suryawiguna" title="Content">🖋</a></td>
   </tr>
 </table>
 
