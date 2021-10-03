@@ -1,7 +1,7 @@
 ## Wifian di Bali
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
-Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
+Kurasi tempat wifi-an di Bali, kadang malas di rumah tapi bingung mau kemana 😋
 
 ## Indeks
 
@@ -50,14 +50,6 @@ pass : marlboro
 | ---- | ------- | ------------------------------------------------------------------------------------------------------ | ----------------- | ----- |
 | ✔    | ✔       | [Jl. Hayam Wuruk No.75, Sumerta Kelod, Denpasar Tim., Kota Denpasar](https://goo.gl/maps/254yGvDUXyH2) | Sepertinya 24 jam | -     |
 
-### BLU.wificorner
-
-> Cafe, Ada Indomie, wifi.id
-
-| Wifi | Colokan | Alamat                                                                                             | Jam Buka      | Harga |
-| ---- | ------- | -------------------------------------------------------------------------------------------------- | ------------- | ----- |
-| ✔    | ✔       | [Jl. Badak Agung No. 23 A, Panjer, Denpasar Sel., Kota Denpasar](https://goo.gl/maps/JyJx9KXARqE2) | 10:00 - 24:00 | 💲💲  |
-
 ### Telkom Ubung
 
 > namping indomaret/alfamart, mie ayam, wifi.id, soto, warung roti
@@ -98,6 +90,19 @@ pass : marlboro
 | ---- | ------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ----- |
 | ✔    | ✔       | [Jl. Kamboja No.4, Dangin Puri Kangin, Denpasar Utara, Kota Denpasar, Bali 80236](https://goo.gl/maps/75hBykMXG9N2) | 24 Jam (Bisa manfaatin meja diluar) | 💲💲  |
 
+### Ken D Coffee
+
+> Warung Coffee, Deket daerah kreneng & rumah pintar. Sebelahnya JFC. Tempat banyak & nyaman, cuma colokan aga dikit (harus siap-siap bawa colokan). Banyak pilihan minum selain kopi dan makanan juga.
+
+| Wifi | Colokan | Alamat                                                                                                       | Jam Buka      | Harga |
+| ---- | ------- | ------------------------------------------------------------------------------------------------------------ | ------------- | ----- |
+| ✔    | ✔       | [Jfc & kenD, Jl. Kamboja No.23, Dangin Puri Kangin, Kec. Denpasar Utara, Kota Denpasar, Bali 80236](https://goo.gl/maps/aP3vMB9Jwzr5efZ58) | 08:00 - 23:00 | 💲💲  |
+
+```
+ssid: Ken D coffee
+pass: kendcoffeeaja
+```
+
 ### Dunkin Donuts Teuku Umar
 
 > Jam datang terbaik adalah sebelum jam 07.00 Senin-Jumat (Sabtu Minggu biasanya ramai) dapat tempat duduk dengan colokan, kalo ga dapet bisa bawa colokan sendiri. Wifi is bad, usually i tether my phone here, kecuali diatas jam 24.00 wifi kencang. Rekomendasi karena banyak inspirasi, price range 30K-50K. Ada smoking room.
@@ -117,6 +122,19 @@ pass : marlboro
 ```
 ssid: Admin Meme
 pass: rahasia123
+```
+
+### Pakerisan Entry
+
+> 1 tempat banyak fasilitas (gym, warkop, tempat makan grill, chinese food sampai nasi campur).
+
+| Wifi | Colokan | Alamat                                                                                                       | Jam Buka      | Harga |
+| ---- | ------- | ------------------------------------------------------------------------------------------------------------ | ------------- | ----- |
+| ✔    | ✔       | [Jl. Tukad Pakerisan No.99b, Panjer, Denpasar Selatan, Kota Denpasar, Bali 80225](https://goo.gl/maps/ngxcknTJbdoBay669) | 07:00 - 22:00 | 💲💲  |
+
+```
+ssid: Pakerisan Entry
+pass: Pakerisanentry
 ```
 
 ### Starbucks Plaza Renon
