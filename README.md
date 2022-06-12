@@ -1,5 +1,7 @@
 ## Wifian di Bali
 
+> Sebagian besar data di list ini sudah lama tidak di-perbarui, untuk alternatif bisa kunjungi Akun Instagram [WFA Bali](https://www.instagram.com/wfa.bali/)
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
 Kurasi tempat wifi-an di Bali, kadang malas di rumah tapi bingung mau kemana 😋
 
