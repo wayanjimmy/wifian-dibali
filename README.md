@@ -399,7 +399,7 @@ pass: rasuna33
 
 ### Gogo UNUD
 
-> lumayan ramai di jam makan
+> lumayan ramai di jam makan, kualitas wifi 3/5 (oktober 2022)
 
 | Wifi | Colokan | Alamat                                                                                        | Jam Buka      | Harga |
 | ---- | ------- | --------------------------------------------------------------------------------------------- | ------------- | ----- |
