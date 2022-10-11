@@ -397,6 +397,19 @@ ssid: Tanamera
 pass: rasuna33
 ```
 
+### Gogo UNUD
+
+> lumayan ramai di jam makan, kualitas wifi 3/5 (oktober 2022)
+
+| Wifi | Colokan | Alamat                                                                                        | Jam Buka      | Harga |
+| ---- | ------- | --------------------------------------------------------------------------------------------- | ------------- | ----- |
+| ✔    | ✔       | [Jl. Raya Kampus Unud No.2013, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361](https://goo.gl/maps/ARhzK9CZH4wgxyhXA) | 24jam | -     |
+
+```
+ssid: gogo unud
+pass: Gogounud168
+```
+
 ## Tabanan
 
 ### Valencia Bakery Cafe
