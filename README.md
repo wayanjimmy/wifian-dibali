@@ -14,6 +14,7 @@ Kurasi tempat wifi-an di Bali, kadang malas di rumah tapi bingung mau kemana �
 - [Tabanan](#tabanan)
 - [Gianyar](#gianyar)
 - [Singaraja](#singaraja)
+- [Jimbaran](#jimbaran)
 
 ## Template
 
@@ -126,18 +127,43 @@ ssid: Admin Meme
 pass: rahasia123
 ```
 
-### Pakerisan Entry
+### Old Champ Cafe Merdeka
 
-> 1 tempat banyak fasilitas (gym, warkop, tempat makan grill, chinese food sampai nasi campur).
+> Old Champ Cafe Merdeka, menyediakan berbagai macam western food dan salad
 
-| Wifi | Colokan | Alamat                                                                                                       | Jam Buka      | Harga |
-| ---- | ------- | ------------------------------------------------------------------------------------------------------------ | ------------- | ----- |
-| ✔    | ✔       | [Jl. Tukad Pakerisan No.99b, Panjer, Denpasar Selatan, Kota Denpasar, Bali 80225](https://goo.gl/maps/ngxcknTJbdoBay669) | 07:00 - 22:00 | 💲💲  |
+| Wifi | Colokan | Alamat                                                                                                               | Jam Buka           | Harga |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| ✔    | ✔       | [Jl. Merdeka No.10B, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/wYto2RsdutuhaKReA) | Mon-Sun 11AM - 12PM | 💲💲  |
 
 ```
-ssid: Pakerisan Entry
-pass: Pakerisanentry
+ssid: The old champ cafe
+pass: TOC12345
 ```
+
+- wifi akses
+- tempat yang cozy
+- tersedia banyak meja outdoor, meja panjang & kecil
+- colokan hampir tersedia di tiap mejanya
+- makanan enak2
+
+
+### Gusto Gelato Cafe Merdeka
+
+> Gusto Gelato Cafe, sedia aneka cemilan, minum, dan pasti tentunya es krim (gelato) dengan berbagai rasa
+
+| Wifi | Colokan | Alamat                                                                                                               | Jam Buka           | Harga |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| ✔    | ✔       | [Jl. Merdeka, Sumerta Kelod, Denpasar Selatan, Kota Denpasar, Bali 80239](https://goo.gl/maps/SBRtGLguTpy4b9Aw9) | Mon-Sun 10AM - 10PM | 💲💲  |
+
+```
+ssid: @gustogelato
+pass: kerobokan
+```
+
+- wifi akses
+- colokan tersedia di setiap bilik meja panjang
+- tersedia banyak meja outdoor, meja panjang & kecil
+- aneka es krim berbagai rasa
 
 ### Starbucks Plaza Renon
 
@@ -151,6 +177,22 @@ pass: Pakerisanentry
 - colokan tersedia di setiap bilik meja panjang
 - colokan tersedia di setiap meja kecil di belakang kasir/barista
 - tersedia banyak meja outdoor, meja panjang & kecil
+
+### Starbucks Gatsu Barat (Mudutaki)
+
+> Seperti starbucks pada umumnya, tersedia free wifi id, meja panjang & kecil.
+Bedanya wc nya bersih banget dan persediaan perlengkapan wc nya sangat lengkap, recommended buat yang rajin ke wc.
+
+| Wifi | Colokan | Alamat                                                                                                               | Jam Buka           | Harga |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| ✔    | ✔       | [Jl. Gatot Subroto Barat No.588, Kerobokan Kaja, Kec. Kuta Utara, Kabupaten Badung, Bali 80117](https://goo.gl/maps/sYEGXVnmQhhL4aYg7) | Mon-Sun 8AM - 11PM | 💲💲  |
+
+- free wifi id
+- colokan tersedia di setiap bilik meja panjang
+- colokan tersedia di setiap meja kecil di belakang kasir/barista
+- tersedia banyak meja outdoor, meja panjang & kecil
+- wc bersih + perlengkapan yang lengkap
+- tempat parkir yang lumayan luas
 
 ### Kulo Kedai Kopi Gunung Agung
 
@@ -506,6 +548,18 @@ pass: Gogounud168
 | Wifi | Colokan | Alamat                                                          | Jam Buka  | Harga |
 | ---- | ------- | --------------------------------------------------------------- | --------- | ----- |
 | ✔    | ✔       | [Jl By Pass Dharma Giri](https://goo.gl/maps/ccKVyqwfrJ1ozd7a7) | 9am - 5pm | 💲💲  |
+
+## Jimbaran
+
+### Mcd Jimbaran
+
+> mcd seperti biasanya, yang dijual juga seperti biasanya
+> lantai 2 nya banyak meja, bisa liat pemandangan dan banyak colokan + tempat buat nongkrong kalau rame-rame
+
+| Wifi | Colokan | Alamat                                                                          | Jam Buka  | Harga |
+| ---- | ------- | ------------------------------------------------------------------------------- | --------- | ----- |
+| ✔    | ✔       | [Simpang Dewa Ruci, Jl. Bypass Ngurah Rai No.168, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361](https://goo.gl/maps/e1Ucv9bK11FAZ35CA) | 8am - 10pm | 💲💲  |
+
 
 ## Contributors ✨
 
