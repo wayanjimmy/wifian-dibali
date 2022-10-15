@@ -515,37 +515,43 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/yayanartha"><img src="https://avatars1.githubusercontent.com/u/10683719?v=4" width="100px;" alt=""/><br /><sub><b>I Wayan Safira Sri Artha</b></sub></a><br /><a href="#content-yayanartha" title="Content">🖋</a></td>
-    <td align="center"><a href="http://adiandrea.id"><img src="https://avatars0.githubusercontent.com/u/12887683?v=4" width="100px;" alt=""/><br /><sub><b>Adi Andrea</b></sub></a><br /><a href="#content-dekzitfz" title="Content">🖋</a></td>
-    <td align="center"><a href="https://www.barayuda.web.id/"><img src="https://avatars3.githubusercontent.com/u/520463?v=4" width="100px;" alt=""/><br /><sub><b>Barayuda Gautama</b></sub></a><br /><a href="#content-barayuda" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/dkotama"><img src="https://avatars3.githubusercontent.com/u/5332757?v=4" width="100px;" alt=""/><br /><sub><b>Darma Kotama, I Nyoman</b></sub></a><br /><a href="#content-dkotama" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/rakateja"><img src="https://avatars1.githubusercontent.com/u/2878405?v=4" width="100px;" alt=""/><br /><sub><b>Made Raka</b></sub></a><br /><a href="#content-rakateja" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/sarascahya"><img src="https://avatars2.githubusercontent.com/u/20552802?v=4" width="100px;" alt=""/><br /><sub><b>Saraswati Suci Cahyati</b></sub></a><br /><a href="#content-sarascahya" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/AgungPremaditya"><img src="https://avatars0.githubusercontent.com/u/34410871?v=4" width="100px;" alt=""/><br /><sub><b>AgungPremaditya</b></sub></a><br /><a href="#content-AgungPremaditya" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/satyawikananda"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4" width="100px;" alt=""/><br /><sub><b>satyawikananda</b></sub></a><br /><a href="#content-satyawikananda" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="100px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/atrem13"><img src="https://avatars0.githubusercontent.com/u/31754826?v=4" width="100px;" alt=""/><br /><sub><b>atrem13</b></sub></a><br /><a href="#content-atrem13" title="Content">🖋</a></td>
-    <td align="center"><a href="https://gitlab.com/Mbahmo"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4" width="100px;" alt=""/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Roogry"><img src="https://avatars3.githubusercontent.com/u/41245458?v=4" width="100px;" alt=""/><br /><sub><b>Roogry</b></sub></a><br /><a href="#content-Roogry" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/budiharta21"><img src="https://avatars0.githubusercontent.com/u/12831288?v=4" width="100px;" alt=""/><br /><sub><b>Budiharta</b></sub></a><br /><a href="#content-budiharta21" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/ktutnik"><img src="https://avatars0.githubusercontent.com/u/1106884?v=4" width="100px;" alt=""/><br /><sub><b>Ketut Sandiarsa</b></sub></a><br /><a href="#content-ktutnik" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/e-suryasamad"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4" width="100px;" alt=""/><br /><sub><b>suryasa</b></sub></a><br /><a href="#content-e-suryasamad" title="Content">🖋</a></td>
-    <td align="center"><a href="http://gedewahyu.com"><img src="https://avatars2.githubusercontent.com/u/2609951?v=4" width="100px;" alt=""/><br /><sub><b>Gede Wahyu Adi Pramana</b></sub></a><br /><a href="#content-wahyuoi" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="100px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
-    <td align="center"><a href="http://justhumanz.me"><img src="https://avatars3.githubusercontent.com/u/43176061?v=4" width="100px;" alt=""/><br /><sub><b>Aldin Setiawan</b></sub></a><br /><a href="#content-JustHumanz" title="Content">🖋</a></td>
-    <td align="center"><a href="https://troke.id"><img src="https://avatars1.githubusercontent.com/u/10250068?v=4" width="100px;" alt=""/><br /><sub><b>I Made Ocy Darma Putra</b></sub></a><br /><a href="#content-troke12" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4" width="100px;" alt=""/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/suryawiguna"><img src="https://avatars0.githubusercontent.com/u/18457413?v=4" width="100px;" alt=""/><br /><sub><b>Surya Wiguna</b></sub></a><br /><a href="#content-suryawiguna" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/yayanartha"><img src="https://avatars1.githubusercontent.com/u/10683719?v=4?s=100" width="100px;" alt="I Wayan Safira Sri Artha"/><br /><sub><b>I Wayan Safira Sri Artha</b></sub></a><br /><a href="#content-yayanartha" title="Content">🖋</a></td>
+      <td align="center"><a href="http://adiandrea.id"><img src="https://avatars0.githubusercontent.com/u/12887683?v=4?s=100" width="100px;" alt="Adi Andrea"/><br /><sub><b>Adi Andrea</b></sub></a><br /><a href="#content-dekzitfz" title="Content">🖋</a></td>
+      <td align="center"><a href="https://www.barayuda.web.id/"><img src="https://avatars3.githubusercontent.com/u/520463?v=4?s=100" width="100px;" alt="Barayuda Gautama"/><br /><sub><b>Barayuda Gautama</b></sub></a><br /><a href="#content-barayuda" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/dkotama"><img src="https://avatars3.githubusercontent.com/u/5332757?v=4?s=100" width="100px;" alt="Darma Kotama, I Nyoman"/><br /><sub><b>Darma Kotama, I Nyoman</b></sub></a><br /><a href="#content-dkotama" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/rakateja"><img src="https://avatars1.githubusercontent.com/u/2878405?v=4?s=100" width="100px;" alt="Made Raka"/><br /><sub><b>Made Raka</b></sub></a><br /><a href="#content-rakateja" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/sarascahya"><img src="https://avatars2.githubusercontent.com/u/20552802?v=4?s=100" width="100px;" alt="Saraswati Suci Cahyati"/><br /><sub><b>Saraswati Suci Cahyati</b></sub></a><br /><a href="#content-sarascahya" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/AgungPremaditya"><img src="https://avatars0.githubusercontent.com/u/34410871?v=4?s=100" width="100px;" alt="AgungPremaditya"/><br /><sub><b>AgungPremaditya</b></sub></a><br /><a href="#content-AgungPremaditya" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/satyawikananda"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4?s=100" width="100px;" alt="satyawikananda"/><br /><sub><b>satyawikananda</b></sub></a><br /><a href="#content-satyawikananda" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4?s=100" width="100px;" alt="Adrian Edy Pratama"/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/atrem13"><img src="https://avatars0.githubusercontent.com/u/31754826?v=4?s=100" width="100px;" alt="atrem13"/><br /><sub><b>atrem13</b></sub></a><br /><a href="#content-atrem13" title="Content">🖋</a></td>
+      <td align="center"><a href="https://gitlab.com/Mbahmo"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4?s=100" width="100px;" alt="Anthony Lee"/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Roogry"><img src="https://avatars3.githubusercontent.com/u/41245458?v=4?s=100" width="100px;" alt="Roogry"/><br /><sub><b>Roogry</b></sub></a><br /><a href="#content-Roogry" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/budiharta21"><img src="https://avatars0.githubusercontent.com/u/12831288?v=4?s=100" width="100px;" alt="Budiharta"/><br /><sub><b>Budiharta</b></sub></a><br /><a href="#content-budiharta21" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/ktutnik"><img src="https://avatars0.githubusercontent.com/u/1106884?v=4?s=100" width="100px;" alt="Ketut Sandiarsa"/><br /><sub><b>Ketut Sandiarsa</b></sub></a><br /><a href="#content-ktutnik" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/e-suryasamad"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4?s=100" width="100px;" alt="suryasa"/><br /><sub><b>suryasa</b></sub></a><br /><a href="#content-e-suryasamad" title="Content">🖋</a></td>
+      <td align="center"><a href="http://gedewahyu.com"><img src="https://avatars2.githubusercontent.com/u/2609951?v=4?s=100" width="100px;" alt="Gede Wahyu Adi Pramana"/><br /><sub><b>Gede Wahyu Adi Pramana</b></sub></a><br /><a href="#content-wahyuoi" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4?s=100" width="100px;" alt="alittriutari"/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
+      <td align="center"><a href="http://justhumanz.me"><img src="https://avatars3.githubusercontent.com/u/43176061?v=4?s=100" width="100px;" alt="Aldin Setiawan"/><br /><sub><b>Aldin Setiawan</b></sub></a><br /><a href="#content-JustHumanz" title="Content">🖋</a></td>
+      <td align="center"><a href="https://troke.id"><img src="https://avatars1.githubusercontent.com/u/10250068?v=4?s=100" width="100px;" alt="I Made Ocy Darma Putra"/><br /><sub><b>I Made Ocy Darma Putra</b></sub></a><br /><a href="#content-troke12" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4?s=100" width="100px;" alt="dhivatiradika"/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/suryawiguna"><img src="https://avatars0.githubusercontent.com/u/18457413?v=4?s=100" width="100px;" alt="Surya Wiguna"/><br /><sub><b>Surya Wiguna</b></sub></a><br /><a href="#content-suryawiguna" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://bukanspot.github.io"><img src="https://avatars.githubusercontent.com/u/57518599?v=4?s=100" width="100px;" alt="Indra Wahyu"/><br /><sub><b>Indra Wahyu</b></sub></a><br /><a href="#content-bukanspot" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

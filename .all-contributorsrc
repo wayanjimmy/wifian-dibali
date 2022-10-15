@@ -193,6 +193,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "bukanspot",
+      "name": "Indra Wahyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57518599?v=4",
+      "profile": "http://bukanspot.github.io",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -200,5 +209,6 @@
   "projectOwner": "wayanjimmy",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
